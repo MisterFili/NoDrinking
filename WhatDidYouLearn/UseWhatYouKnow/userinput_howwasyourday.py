@@ -8,5 +8,4 @@ if response == 'not good':
 else:
 	response2 = input('come on, you can say more than that! ')
 
-#print(response2{}.format(response))
 print('I knew you could more than \"{}\"'.format(response))
