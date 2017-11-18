@@ -30,7 +30,7 @@ def main():
     		print('\n{} divides evenly into {}'.format(numerator, denominator))
     	else:
     		print('{} does not divide evenly into {}'.format(numerator, denominator))
-    print('\nAlso, {} divid by {} = {}'.format(numerator, denominator,answer))
+    print('\nAlso, {} divid by {} equals {}'.format(numerator, denominator, answer))
 
 if __name__ == '__main__':
     main()
