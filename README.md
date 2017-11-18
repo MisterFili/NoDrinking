@@ -6,5 +6,5 @@ Also, we can visit <a href="https://github.com/jeffwright13/practice_python/blob
 
 <h1> Things to fix</h1>
 <ul style="list-style-type:square">
-  <li>03mainList.py</li>
+  <li><a href="https://github.com/MisterFili/NoDrinking/blob/master/03mainList.py">03mainList.py</a></li>
 </ul>
