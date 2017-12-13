@@ -8,5 +8,5 @@
 # 	print(nums)
 # 	i = i+1
 
-nums = list(range(4, 11, 2))
+nums = list(range(4, 16, 2))
 print(nums)
